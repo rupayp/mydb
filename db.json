@@ -5,22 +5,6 @@
       "title": "hello"
     }
   ],
-  "students": [{"id":1,"name":"Bridget","location":"Mūdīyah","email":"bcanfer0@wunderground.com","gender":"Female"},
-{"id":2,"name":"Keith","location":"Zlín","email":"klawerence1@nature.com","gender":"Male"},
-{"id":3,"name":"Betsy","location":"Nantes","email":"bseally2@php.net","gender":"Female"},
-{"id":4,"name":"Lyndy","location":"Borovskiy","email":"lkuhnert3@wunderground.com","gender":"Female"},
-{"id":5,"name":"Gregorio","location":"Villa Las Rosas","email":"gfarnin4@cornell.edu","gender":"Male"},
-{"id":6,"name":"Art","location":"Ede","email":"agreenshields5@prweb.com","gender":"Male"},
-{"id":7,"name":"Zabrina","location":"Colonia Neuland","email":"zgolden6@altervista.org","gender":"Female"},
-{"id":8,"name":"Lilias","location":"Penco","email":"lsysland7@goo.gl","gender":"Female"},
-{"id":9,"name":"Allix","location":"El Refugio","email":"aorteu8@seattletimes.com","gender":"Female"},
-{"id":10,"name":"Dorine","location":"Esperanza","email":"dabbado9@flavors.me","gender":"Female"},
-{"id":11,"name":"Lee","location":"Ebak","email":"lfairbairna@edublogs.org","gender":"Female"},
-{"id":12,"name":"Reuven","location":"Kawahmanuk","email":"rsickamoreb@meetup.com","gender":"Male"},
-{"id":13,"name":"Maura","location":"Hukou","email":"mkryskac@nifty.com","gender":"Female"},
-{"id":14,"name":"Ennis","location":"Czarna Dąbrówka","email":"egoaksd@merriam-webster.com","gender":"Male"},
-{"id":15,"name":"Loralee","location":"Cervantes","email":"lmcculloghe@gravatar.com","gender":"Female"},
-{"id":16,"name":"Eddy","location":"Langford","email":"ejoynerf@wordpress.com","gender":"Male"}],
   "profile": {
     "name": "typicode"
   }
